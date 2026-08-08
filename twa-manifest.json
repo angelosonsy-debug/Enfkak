@@ -1,0 +1,31 @@
+{
+  "packageId": "com.enfkak.app",
+  "host": "USERNAME.github.io",
+  "name": "خطة الانفكاك",
+  "launcherName": "الانفكاك",
+  "display": "standalone",
+  "themeColor": "#C98A3B",
+  "navigationColor": "#C98A3B",
+  "navigationColorDark": "#181C15",
+  "backgroundColor": "#F5F1E6",
+  "backgroundColorDark": "#181C15",
+  "startUrl": "/REPO_NAME/index.html",
+  "iconUrl": "https://USERNAME.github.io/REPO_NAME/icons/icon-512.png",
+  "maskableIconUrl": "https://USERNAME.github.io/REPO_NAME/icons/icon-512.png",
+  "webManifestUrl": "https://USERNAME.github.io/REPO_NAME/manifest.json",
+  "fullScopeUrl": "https://USERNAME.github.io/REPO_NAME/",
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "enfkak"
+  },
+  "appVersion": "1",
+  "appVersionName": "1.0.0",
+  "orientation": "portrait",
+  "fallbackType": "customtabs",
+  "features": {},
+  "enableNotifications": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false
+}
